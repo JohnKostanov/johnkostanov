@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**JohnKostanov/johnkostanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm John and I'm a iOS-Developer from Spain. I have been learning Swift programming language since 2018.
 - 🔭 I’m currently working on SwiftSimple.
 - 🌱 I’m currently learning Combine.
 - 💪 I realy like writing code.
 - 📚 My stack is Swift | SwiftUI | MVVM | Combine | SpriteKit
 - 👯 I’m looking to collaborate on interesting project
-- 📫 How to reach me: @johnkostanov | kostanovd@icloud.com
+- 📫 How to reach me: kostanovd@icloud.com | Telegram - @johnkostanov
 - ⚡ Fun fact: I like SciFi.
 - 💬 I am communicative.
-
